@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//Novato
 // ---Constantes Globais ---
 #define NUM_TERRITORIOS 5
 #define TAM_NOME 30
